@@ -1,0 +1,21 @@
+/*
+            var n = 0;
+
+            while(n < 10){
+                //execute aqui!
+                console.log(n);
+                n++;
+            }
+            */
+/*
+for(var i = 5; i < 10;i++){
+    console.log(i);
+}
+*/
+/*
+var n = 0;
+do{
+    console.log(n);
+    n++;
+}while(n < 10);
+*/
