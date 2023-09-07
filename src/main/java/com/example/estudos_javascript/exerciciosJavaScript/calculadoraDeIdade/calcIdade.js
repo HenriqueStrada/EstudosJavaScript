@@ -14,7 +14,6 @@ document.getElementById("calc").onclick = function() {
         anos--;
         meses += 12;
     }
-
     if (dias < 0) {
         meses--;
         dias += new Date(anoAtual, mesAtual - 1, 0).getDate();
