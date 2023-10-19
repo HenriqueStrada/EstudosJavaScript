@@ -18,11 +18,9 @@ function validarVitoria(){
 
             vencedor.innerHTML = "O player ganhou";
         }
-
-
     }
 
-
+//
     if(playerOpt == "tesoura"){
 
         if(inimigoOpt == "papel"){
